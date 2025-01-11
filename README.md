@@ -19,4 +19,5 @@ This repository contains notes, exercises, and resources from my journey through
 ## 🌟 Contribute  
 Feel free to open an issue or submit a pull request if you have additional resources or improvements
 
-
+## 🌟 Connect with Me  
+Have suggestions or want to collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/md-irshad-anwar/)!  
