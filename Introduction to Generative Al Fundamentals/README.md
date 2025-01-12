@@ -66,7 +66,7 @@ Generative AI is a subset of artificial intelligence that focuses on creating ne
 ---
 
 ## 🤝 **Connect with Me**  
-- 💼 LinkedIn: [Md Irshad Anwar](https://www.linkedin.com/in/md-irshad-anwar/)  
-- 🌟 YouTube: [AI With Irshad]([https://www.youtube.com/channel/UC-LinkHere](https://youtube.com/@aibyiitian?si=Xjp9KndvzCzihj2e))  
+- 💼 LinkedIn: [Md Irshad Anwar](https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/)  
+- 🌟 YouTube: [AI by IITian](https://youtube.com/@aibyiitian?si=Xjp9KndvzCzihj2e)  
 
 Feel free to contribute to this repository by sharing additional resources, insights, or corrections. Together, let's make learning Generative AI accessible to everyone
