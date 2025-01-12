@@ -69,13 +69,4 @@ Generative AI is a subset of artificial intelligence that focuses on creating ne
 - 💼 LinkedIn: [Md Irshad Anwar](https://www.linkedin.com/in/md-irshad-anwar/)  
 - 🌟 YouTube: [AI With Irshad](https://www.youtube.com/channel/UC-LinkHere)  
 
-Feel free to contribute to this repository by sharing additional resources, insights, or corrections. Together, let's make learning Generative AI accessible to everyone!  
-
----
-
-## 🏷️ **License**  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
----
-
-Let me know if you'd like further refinements or additions! 😊
+Feel free to contribute to this repository by sharing additional resources, insights, or corrections. Together, let's make learning Generative AI accessible to everyone
