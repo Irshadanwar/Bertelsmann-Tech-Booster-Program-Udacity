@@ -19,6 +19,7 @@ This repository contains notes, exercises, and resources from my journey through
 ## 🌟 Contribute  
 Feel free to open an issue or submit a pull request if you have additional resources or improvements
 
-## 🌟 Connect with Me  
-Have suggestions or want to collaborate? Reach out on LinkedIn: https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/
+## 🤝 **Connect with Me**  
+- 💼 LinkedIn: [Md Irshad Anwar](https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/)  
+- 🌟 YouTube: [AI by IITian](https://youtube.com/@aibyiitian?si=Xjp9KndvzCzihj2e)  
 
