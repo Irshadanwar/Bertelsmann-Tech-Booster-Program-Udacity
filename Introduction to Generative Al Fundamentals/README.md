@@ -1,7 +1,3 @@
-Here is a professional **README.md** file for your GitHub repository:
-
----
-
 # 📘 Introduction to Generative AI Fundamentals  
 **Notes by: Md Irshad Anwar & AI by IITian**  
 
